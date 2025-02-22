@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rémi Frassier! 👋
 
-<!--
-**remifrsr/remifrsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineering Life Sciences student at [EPFL](https://www.epfl.ch) in Switzerland. Passionate about bridging technology and life sciences, I'm always exploring innovative solutions at the intersection of biology, engineering, and data science.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on projects related to bioengineering, data analysis, and automation.
+- 🌱 I’m continuously learning about new technologies and scientific advancements.
+- 👯 I’m excited about collaborating on interdisciplinary projects that challenge the norms.
+- 🤔 I’m open to discussing research, ideas, and technology, so feel free to reach out!
+
+## Skills
+
+- **Programming:** Python, MATLAB, R
+- **Data Analysis:** Pandas, NumPy, SciPy, scikit-learn
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Lab Techniques:** Molecular biology, analytical instrumentation
+- **Other Tools:** Git, Linux, Docker
+
+## 📫 How to Reach Me
+
+- **Email:** [your.email@example.com](mailto:remi.frassier@pm.me)  
+
+Feel free to explore my repositories and projects !
+
+---
+
+*Thank you for stopping by my profile!*
