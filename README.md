@@ -19,7 +19,7 @@ I'm an Engineering Life Sciences student at [EPFL](https://www.epfl.ch) in Switz
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](mailto:remi.frassier@pm.me)  
+- **Email:** [remi.frassier@epfl.ch](mailto:remi.frassier@pm.me)  
 
 Feel free to explore my repositories and projects !
 
